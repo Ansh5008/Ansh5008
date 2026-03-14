@@ -1,9 +1,8 @@
 <!-- ================= HACKER STYLE GITHUB PROFILE ================= -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKsQ8UQzKqO1b5C/giphy.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=200&section=header&text=ANSH%20KUMAR&fontSize=40&fontColor=00ff41&animation=fadeIn"/>
 </p>
-
 ---
 
 # 🖥 SYSTEM TERMINAL
