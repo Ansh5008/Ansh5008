@@ -1,41 +1,31 @@
-<!-- CYBERPUNK / DARK 3D GITHUB PROFILE -->
-
-<!-- Animated Header -->
+<!-- ================= HACKER STYLE GITHUB PROFILE ================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=4000&color=00FF9C&center=true&vCenter=true&width=900&lines=Hi+I'm+Ansh+Kumar;AI+Security+Researcher;Cybersecurity+Enthusiast;CTF+Player;Machine+Learning+Developer;Breaking+Systems+to+Secure+Them" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=4000&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESSING+SYSTEM...;Hi+I'm+Ansh+Kumar;AI+Security+Researcher;Cybersecurity+Enthusiast;CTF+Player;Machine+Learning+Developer" />
 </p>
 
 ---
 
-# 👨‍💻 SYSTEM PROFILE
+# 🖥 SYSTEM TERMINAL
 
 ```bash
-> USER: Ansh Kumar
-> ROLE: AI Security Researcher
-> STATUS: Active
-> SPECIALIZATION: AI + Cybersecurity + CTF
+> user: Ansh Kumar
+> role: AI Security Researcher
+> system_status: online
+> focus: AI | Cybersecurity | CTF
 ```
-
-🔭 Currently working on **AI Security & Machine Learning**
-
-🧠 Learning **LLM Security, Exploit Development**
-
-🏆 **Top 21 Worldwide – EC-Council Nexus AI Security CTF**
-
-⚡ Passionate about **AI Safety and Offensive Security**
 
 ---
 
-# 👁 VISITOR COUNTER
+# 👁 VISITOR LOG
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ansh5008&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Ansh5008&label=SYSTEM+VISITS&color=00ff41&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🧠 TECH STACK
+# 🧠 CORE SKILLS
 
 ### Programming
 
@@ -58,19 +48,18 @@
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-000000?style=for-the-badge\&logo=kalilinux)
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge)
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# 🏆 TROPHY CASE
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ansh5008&theme=matrix&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ansh5008&theme=matrix&margin-w=10&no-frame=true"/>
 </p>
 
 ---
 
-# 📊 GITHUB STATS
+# 📊 SYSTEM ANALYTICS
 
 <p align="center">
 
@@ -78,13 +67,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh5008&theme=chartreuse-dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh5008&layout=compact&theme=chartreuse-dark"/>
-
 </p>
 
 ---
 
-# 🌌 3D CONTRIBUTION GRAPH
+# 🌌 3D ACTIVITY GRAPH
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh5008&theme=react-dark&hide_border=true"/>
@@ -92,7 +79,7 @@
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE (ANIMATED)
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -100,23 +87,20 @@
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 PROJECT ARCHIVE
 
 🧠 **Image Captioning AI**
-
-* Deep learning model using **ResNet + LSTM**
+Deep learning model using **ResNet + LSTM**
 
 🌙 **Lunar Landslide Detection**
-
-* AI detection using **Chandrayaan imagery**
+AI research using **Chandrayaan imagery**
 
 🔐 **AI Security Research**
-
-* Studying vulnerabilities in **AI-generated database queries**
+Exploring vulnerabilities in **AI-generated queries**
 
 ---
 
-# 🌐 CONNECT
+# 🌐 NETWORK CONNECTIONS
 
 <p align="center">
 
@@ -134,6 +118,7 @@
 
 <p align="center">
 
-⚡ *AI will transform the world — Security will protect it.*
+⚡ *“Hack the system to understand it — Secure it to protect the future.”*
 
 </p>
+
