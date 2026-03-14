@@ -5,6 +5,10 @@
 </p>
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&color=00FF41&center=true&vCenter=true&width=900&lines=AI+Security+Researcher;Cybersecurity+Enthusiast;CTF+Player;Machine+Learning+Developer"/>
+</p>
+
 # 🖥 SYSTEM TERMINAL
 
 ```bash
