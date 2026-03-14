@@ -5,11 +5,6 @@
 </p>
 
 <!-- ================= MATRIX BACKGROUND ================= -->
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o7TKsQ8UQzKqO1b5C/giphy.gif" width="900"/>
-</p>
-
 <!-- ================= TERMINAL TYPING ================= -->
 
 <p align="center">
