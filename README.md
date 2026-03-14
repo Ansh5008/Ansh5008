@@ -9,10 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&color=00FF41&center=true&vCenter=true&width=900&lines=AI+Security+Researcher;Cybersecurity+Enthusiast;CTF+Player;Machine+Learning+Developer"/>
 </p>
 
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00FF41&center=true&vCenter=true&width=900&lines=user%3A+Ansh+Kumar;role%3A+AI+Security+Researcher;system_status%3A+online;focus%3A+AI+%7C+Cybersecurity+%7C+CTF" />
-</p>
 # 🖥 SYSTEM TERMINAL
 
 ```bash
