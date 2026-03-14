@@ -1,7 +1,7 @@
 <!-- ================= HACKER STYLE GITHUB PROFILE ================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=4000&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESSING+SYSTEM...;Hi+I'm+Ansh+Kumar;AI+Security+Researcher;Cybersecurity+Enthusiast;CTF+Player;Machine+Learning+Developer" />
+<img src="https://media.giphy.com/media/3o7TKsQ8UQzKqO1b5C/giphy.gif" width="100%">
 </p>
 
 ---
