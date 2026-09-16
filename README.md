@@ -1,154 +1,121 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0533,100:0d0d1f&height=220&section=header&text=ANSH%20KUMAR&fontSize=52&fontColor=c084fc&animation=fadeIn&fontAlignY=36&desc=AI%20Security%20Researcher%20%7C%20CTF%20Player%20%7C%20ML%20Engineer&descSize=17&descAlignY=58&descAlign=50&descColor=818cf8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:6366f1,70:a855f7,100:ec4899&height=220&section=header&text=ANSH%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Security%20Researcher%20%7C%20CTF%20Player%20%7C%20ML%20Engineer&descSize=17&descAlignY=58&descAlign=50&descColor=e0d4ff"/>
 
 <br/>
 
-<!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&multiline=false&width=700&lines=%3E+user%3A+Ansh+Kumar;%3E+role%3A+AI+Security+Researcher;%3E+ranked+%2321+worldwide+%E2%80%94+EC-Council+Nexus+AI+CTF;%3E+focus%3A+AI+%7C+Cybersecurity+%7C+CTF;%3E+system_status%3A+online+%F0%9F%9F%A2)](https://github.com/Ansh5008)
 
 <br/>
 
-<!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=Ansh5008&label=Profile+Views&color=7c3aed&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Ansh5008&label=Profile+Views&color=6366f1&style=for-the-badge"/>
 &nbsp;
-<a href="https://github.com/Ansh5008?tab=followers">
-  <img src="https://img.shields.io/github/followers/Ansh5008?label=Followers&style=flat-square&color=7c3aed&labelColor=1a0533"/>
-</a>
+<a href="https://github.com/Ansh5008?tab=followers"><img src="https://img.shields.io/github/followers/Ansh5008?label=Followers&style=for-the-badge&color=a855f7&labelColor=0f0c29"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/CTF%20Rank-%2321%20Worldwide-c084fc?style=flat-square&labelColor=1a0533"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20Security-818cf8?style=flat-square&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/CTF%20Rank-%2321%20Worldwide-ec4899?style=for-the-badge&labelColor=0f0c29"/>
+
+<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=3"/>
 
 </div>
 
----
+<br/>
 
-## 🖥 SYSTEM TERMINAL
+## 🖥️ System Terminal
 
-```bash
-┌──[ansh@github]─[~]
-└─$ whoami
-  Ansh Kumar — AI Security Researcher & CTF Enthusiast
+<div align="center">
+<img width="100%" src="./assets/terminal.svg" alt="animated terminal — whoami, about.txt, skills.json"/>
+</div>
 
-┌──[ansh@github]─[~]
-└─$ cat about.txt
-  🔭 Currently working on AI security and ML-based projects
-  🤝 Looking to collaborate on AI, cybersecurity & research
-  🌱 Learning LLM security, exploit development & advanced ML
-  💬 Ask me about Python, CTF strategies, AI systems
-  ⚡ Ranked #21 worldwide — EC-Council Nexus AI Security CTF
+<br/>
 
-┌──[ansh@github]─[~]
-└─$ cat skills.json
-  {
-    "ai": ["ML", "LLMs", "AI Security", "Adversarial ML"],
-    "security": ["Binary Exploitation", "Web Exploitation", "Cryptanalysis", "OSINT"]
-  }
-
-┌──[ansh@github]─[~]
-└─$ cat currently.log
-  [+] Solving CTF challenges across pwn / crypto / web / OSINT
-  [+] Reverse engineering stateful binaries & sandbox escapes
-  [+] Researching LLM security & prompt-injection resilience
-
-┌──[ansh@github]─[~]
-└─$ _
-```
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=3"/>
 
 ## 💫 About Me
 
-- 🧠 **AI & Cybersecurity** enthusiast with hands-on CTF experience across multiple categories
-- 🏆 Ranked **#21 Worldwide** in EC-Council Nexus AI Security CTF
-- 🔬 Researching **LLM Security**, adversarial ML & intelligent systems
-- 🛡️ Experience in **binary exploitation, web security, cryptanalysis & OSINT** through competitive CTFs
-- 🤖 Building tools at the intersection of **Machine Learning & Security**
-- 📍 Based in **New Delhi, India** 🇮🇳
-- 🌐 Part of the **AI-Twining-2024-2028** research org
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+- 🧠 **AI & Cybersecurity** enthusiast with hands-on CTF experience across pwn, web, crypto & OSINT
+- 🏆 Ranked **#21 Worldwide** — EC-Council Nexus AI Security CTF
+- 🔬 Researching **LLM Security**, adversarial ML & intelligent systems
+- 🛡️ Reverse engineering, exploit development & vulnerability analysis
+- 🤖 Building tools at the intersection of **Machine Learning & Security**
+- 📍 New Delhi, India 🇮🇳 &nbsp;·&nbsp; 🌐 **AI-Twining-2024-2028** research org
+
+</td>
+<td width="40%" valign="top">
+
+**Quick facts**
+
+| | |
+|---|---|
+| 🎯 Focus | AI Security, CTF |
+| 🧪 Categories | Pwn · Web · Crypto · OSINT |
+| 🛠️ Daily driver | Python, Bash, Linux |
+| 📡 Status | `online` 🟢 |
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=3"/>
 
 ## 🚩 CTF Focus
 
-Actively competing across a range of categories, with recent work spanning:
-
-| Category | Focus areas |
-|---|---|
-| **Pwn / Binary Exploitation** | Reverse engineering stateful binaries, sandbox escapes, setuid privilege analysis |
-| **Web Exploitation** | Auth/token vulnerabilities, injection flaws in modern web frameworks |
-| **Cryptography** | Classical & applied cryptanalysis, key-recovery attacks |
-| **OSINT** | Geolocation & digital footprint investigation |
-
----
-
-## 🌐 Socials
-
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itz_classy20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-kumar008)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/anshkumar5008)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansh5008)
+| Category | Focus areas |
+|:---:|---|
+| 💥 **Pwn** | Stateful binary reversing, sandbox escapes, setuid privilege analysis |
+| 🌐 **Web** | Auth/token exploitation, injection flaws in modern frameworks |
+| 🔐 **Crypto** | Classical & applied cryptanalysis, key-recovery attacks |
+| 🛰️ **OSINT** | Geolocation & digital footprint investigation |
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=3"/>
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itz_classy20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-kumar008)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/anshkumar5008)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansh5008)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=3"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,bash,tensorflow,pytorch,sklearn,numpy,pandas,react,nodejs,flask,fastapi,docker,linux,vscode,git&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<br/><br/>
 
-**AI / ML**
+**Security tooling**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Web & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Security Tools**
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Radare2](https://img.shields.io/badge/radare2-000000?style=for-the-badge&logo=radare&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Radare2](https://img.shields.io/badge/radare2-000000?style=flat-square&logo=radare&logoColor=white)
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=3"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ansh5008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=c084fc&icon_color=818cf8&text_color=e8e0ff&ring_color=7c3aed&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Ansh5008&theme=tokyonight&hide_border=true&background=0D0B1E&ring=c084fc&fire=818cf8&currStreakLabel=c084fc&sideLabels=818cf8&dates=e8e0ff&stroke=7c3aed"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ansh5008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=c084fc&icon_color=818cf8&text_color=e8e0ff&ring_color=a855f7&count_private=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Ansh5008&theme=tokyonight&hide_border=true&background=0D0B1E&ring=c084fc&fire=ec4899&currStreakLabel=c084fc&sideLabels=818cf8&dates=e8e0ff&stroke=a855f7"/>
 
 <br/><br/>
 
@@ -156,27 +123,19 @@ Actively competing across a range of categories, with recent work spanning:
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=3"/>
 
 ## 🏆 Achievements
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Ansh5008&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
 </div>
-
----
 
 ## 🔥 Contribution Activity
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh5008&bg_color=0D0B1E&color=c084fc&line=7c3aed&point=e8e0ff&area=true&area_color=1a0533&hide_border=true"/>
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh5008&bg_color=0D0B1E&color=c084fc&line=a855f7&point=e8e0ff&area=true&area_color=1a0533&hide_border=true"/>
 </div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -190,7 +149,7 @@ Actively competing across a range of categories, with recent work spanning:
 
 </div>
 
-> **To enable the snake animation**, add this GitHub Actions workflow to `.github/workflows/snake.yml`:
+> **To enable the snake animation**, add this to `.github/workflows/snake.yml`:
 >
 > ```yaml
 > name: Generate Snake
@@ -215,20 +174,15 @@ Actively competing across a range of categories, with recent work spanning:
 >           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 > ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=3"/>
 
 <div align="center">
 
 ### 💬
-
 > *"The quieter you become, the more you are able to hear."*
 
 </div>
 
----
-
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1f,50:1a0533,100:0a0a0f&height=120&section=footer&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:a855f7,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 </div>
