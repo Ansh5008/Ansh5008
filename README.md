@@ -1,209 +1,345 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0533,100:0d0d1f&height=220&section=header&text=ANSH%20KUMAR&fontSize=52&fontColor=c084fc&animation=fadeIn&fontAlignY=36&desc=AI%20Security%20Researcher%20%7C%20CTF%20Player%20%7C%20ML%20Engineer&descSize=17&descAlignY=58&descAlign=50&descColor=818cf8"/>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 
-<br/>
+<!--                         HERO                                  -->
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&multiline=false&width=700&lines=%3E+user%3A+Ansh+Kumar;%3E+role%3A+AI+Security+Researcher;%3E+ranked+%2321+worldwide+%E2%80%94+EC-Council+Nexus+AI+CTF;%3E+focus%3A+AI+%7C+Cybersecurity+%7C+CTF;%3E+system_status%3A+online+%F0%9F%9F%A2)](https://github.com/Ansh5008)
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050509,45:12051f,75:24104a,100:050509&height=240&section=header&text=ANSH%20KUMAR&fontSize=58&fontColor=c084fc&fontAlignY=35&desc=AI%20SECURITY%20%2F%2F%20ML%20%2F%2F%20CYBERSECURITY&descSize=17&descAlignY=57&descColor=a78bfa&animation=fadeIn"/>
 
-<!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=Ansh5008&label=Profile+Views&color=7c3aed&style=flat-square"/>
-&nbsp;
-<a href="https://github.com/Ansh5008?tab=followers">
-  <img src="https://img.shields.io/github/followers/Ansh5008?label=Followers&style=flat-square&color=7c3aed&labelColor=1a0533"/>
+<br>
+
+<a href="https://github.com/Ansh5008">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=780&height=45&lines=%3E+initializing+Ansh_Kumar...;%3E+AI+Security+Researcher;%3E+CTF+Player+%7C+ML+Engineer;%3E+LLM+Security+%7C+Adversarial+ML;%3E+ranked+%2321+worldwide+%E2%80%94+EC-Council+Nexus+AI+Security+CTF;%3E+system_status%3A+ONLINE+%E2%97%89" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Ansh5008&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/CTF%20Rank-%2321%20Worldwide-c084fc?style=flat-square&labelColor=1a0533"/>
+<img src="https://img.shields.io/github/followers/Ansh5008?label=FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=09090b"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20Security-818cf8?style=flat-square&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/AI%20SECURITY-Research-c084fc?style=for-the-badge&labelColor=09090b"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CTF-%2321%20WORLDWIDE-8b5cf6?style=for-the-badge&labelColor=09090b"/>
+
+<br><br>
+
+<a href="https://github.com/Ansh5008">
+<img src="https://img.shields.io/badge/GITHUB-0A0A0F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/ansh-kumar008">
+<img src="https://img.shields.io/badge/LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=8b5cf6"/>
+</a>
+<a href="https://x.com/anshkumar5008">
+<img src="https://img.shields.io/badge/X-0A0A0F?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🖥 SYSTEM TERMINAL
+# `01` // SYSTEM PROFILE
 
-```bash
-┌──[ansh@github]─[~]
-└─$ whoami
-  Ansh Kumar — AI Security Researcher & CTF Enthusiast
-
-┌──[ansh@github]─[~]
-└─$ cat about.txt
-  🔭 Currently working on AI security and ML-based projects
-  🤝 Looking to collaborate on AI, cybersecurity & research
-  🌱 Learning LLM security, exploit development & advanced ML
-  💬 Ask me about Python, CTF strategies, AI systems
-  ⚡ Ranked #21 worldwide — EC-Council Nexus AI Security CTF
-
-┌──[ansh@github]─[~]
-└─$ cat skills.json
-  { "ai": ["ML", "LLMs", "AI Security"], "security": ["CTF", "Exploit Dev", "Vuln Analysis"] }
-
-┌──[ansh@github]─[~]
-└─$ _
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   USER        : ANSH KUMAR                                      │
+│   ROLE        : AI SECURITY RESEARCHER                          │
+│   DOMAIN      : AI × CYBERSECURITY × MACHINE LEARNING            │
+│   MODE        : BUILD / BREAK / RESEARCH                         │
+│                                                                  │
+│   CURRENTLY   : LLM Security + Adversarial ML                    │
+│   INTERESTS   : CTF • Exploit Dev • Vulnerability Research       │
+│                 Intelligent Security Systems                     │
+│                                                                  │
+│   STATUS      : ● ONLINE                                         │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 💫 About Me
-
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Ansh5008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=c084fc&icon_color=818cf8&text_color=e8e0ff&ring_color=7c3aed&count_private=true"/>
-
-- 🧠 **AI & Cybersecurity** enthusiast with hands-on CTF experience
-- 🏆 Ranked **#21 Worldwide** in EC-Council Nexus AI Security CTF
-- 🔬 Researching **LLM Security**, adversarial ML & intelligent systems
-- 🛡️ Experience in **vulnerability analysis**, exploit development & AI-driven tools
-- 🤖 Building tools at the intersection of **Machine Learning & Security**
-- 📍 Based in **New Delhi, India** 🇮🇳
-- 🌐 Part of the **AI-Twining-2024-2028** research org
-
-<br clear="right"/>
-
----
-
-## 🌐 Socials
-
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itz_classy20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-kumar008)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/anshkumar5008)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansh5008)
+### `WHOAMI`
+
+**AI & Cybersecurity enthusiast building intelligent systems that can be tested, attacked, audited, and improved.**
+
+I work at the intersection of **Machine Learning, LLM Security, Vulnerability Research, and Offensive Security**.
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+# `02` // ABOUT
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 RESEARCH
+
+* LLM Security
+* Adversarial Machine Learning
+* AI Red Teaming
+* Retrieval-Augmented Generation
+* Intelligent Security Systems
+* AI-assisted Vulnerability Analysis
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ SECURITY
+
+* CTF & Security Research
+* Web Security
+* Vulnerability Analysis
+* Exploit Development
+* Network Security
+* Linux / Kali
+* Offensive Security Tooling
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-**Languages**
+### 🏆 HIGHLIGHT
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Web & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Security Tools**
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/EC--COUNCIL%20NEXUS%20AI%20SECURITY%20CTF-%2321%20WORLDWIDE-c084fc?style=for-the-badge&labelColor=09090b"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# `03` // FEATURED PROJECTS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ansh5008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=c084fc&icon_color=818cf8&text_color=e8e0ff&ring_color=7c3aed&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Ansh5008&theme=tokyonight&hide_border=true&background=0D0B1E&ring=c084fc&fire=818cf8&currStreakLabel=c084fc&sideLabels=818cf8&dates=e8e0ff&stroke=7c3aed"/>
+|               PROJECT              | DESCRIPTION                                                                            |       DOMAIN       |
+| :--------------------------------: | :------------------------------------------------------------------------------------- | :----------------: |
+| 🔍 **Retrieval Integrity Auditor** | Audits RAG retrieval quality, detects missing evidence and explains retrieval failures |     `AI / RAG`     |
+|          🛡️ **Smart IDS**         | ML-powered intrusion detection system using network traffic analysis                   |   `AI / Security`  |
+|    🧬 **TruthWeaver Detection**    | Intelligent detection and analysis pipeline for suspicious/generated content           |   `AI / Security`  |
+|      🏎️ **F1 Race Predictor**     | Machine-learning based race prediction system                                          | `Machine Learning` |
+|           🌙 **SeleneX**           | Lunar hazard detection and intelligent analysis pipeline                               |  `Computer Vision` |
+|        🩺 **HealthMate AI**        | AI-powered assistant and intelligent information system                                |     `AI / LLM`     |
 
-<br/><br/>
+</div>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh5008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=c084fc&text_color=e8e0ff&langs_count=6"/>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Ansh5008/rag_retrieval_audit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ansh5008&repo=rag_retrieval_audit&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=c084fc&icon_color=8b5cf6&text_color=e9d5ff"/>
+</a>
+
+<a href="https://github.com/Ansh5008">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ansh5008&repo=Smart_IntrusionDetectionSystem&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=c084fc&icon_color=8b5cf6&text_color=e9d5ff"/>
+</a>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+# `04` // TECH ARSENAL
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ansh5008&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,bash&theme=dark"/>
+
+<br><br>
+
+### `AI / MACHINE LEARNING`
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
+
+<br><br>
+
+### `WEB / BACKEND`
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask&theme=dark"/>
+
+<br><br>
+
+### `DATABASE / INFRASTRUCTURE`
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,redis,docker&theme=dark"/>
+
+<br><br>
+
+### `SECURITY`
+
+<img src="https://skillicons.dev/icons?i=kali,linux&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Nmap-0A0A0F?style=for-the-badge&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-0A0A0F?style=for-the-badge&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/Metasploit-0A0A0F?style=for-the-badge&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/Wireshark-0A0A0F?style=for-the-badge&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/sqlmap-0A0A0F?style=for-the-badge&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/Gobuster-0A0A0F?style=for-the-badge&logoColor=8b5cf6"/>
+
+<br><br>
+
+### `TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Activity
+# `05` // SECURITY FOCUS
+
+```text
+                     ┌─────────────────────┐
+                     │     AI SECURITY     │
+                     └──────────┬──────────┘
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+        ┌───────────┐     ┌───────────┐     ┌───────────┐
+        │ LLM SEC   │     │ ADV. ML   │     │ AI RED    │
+        │           │     │           │     │ TEAMING   │
+        └─────┬─────┘     └─────┬─────┘     └─────┬─────┘
+              │                 │                 │
+              └─────────────────┼─────────────────┘
+                                ▼
+                     ┌─────────────────────┐
+                     │ INTELLIGENT DEFENSE │
+                     └─────────────────────┘
+```
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh5008&bg_color=0D0B1E&color=c084fc&line=7c3aed&point=e8e0ff&area=true&area_color=1a0533&hide_border=true"/>
+`LLM SECURITY`　`RAG SECURITY`　`ADVERSARIAL ML`　`AI RED TEAMING`
+
+`VULNERABILITY RESEARCH`　`EXPLOIT DEVELOPMENT`　`CTF`
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# `06` // GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ansh5008&show_icons=true&hide_border=true&bg_color=09090b&title_color=c084fc&icon_color=8b5cf6&text_color=e9d5ff&ring_color=7c3aed&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Ansh5008&hide_border=true&background=09090b&ring=c084fc&fire=8b5cf6&currStreakLabel=c084fc&sideLabels=a78bfa&dates=e9d5ff&stroke=4c1d95"/>
+
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh5008&layout=compact&hide_border=true&bg_color=09090b&title_color=c084fc&text_color=e9d5ff&langs_count=8"/>
+
+</div>
+
+---
+
+# `07` // CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh5008&bg_color=09090b&color=c084fc&line=7c3aed&point=e9d5ff&area=true&area_color=24104a&hide_border=true&custom_title=Ansh%20Kumar%20%E2%80%94%20Contribution%20Matrix"/>
+
+</div>
+
+---
+
+# `08` // ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ansh5008&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🏆%20EC--COUNCIL%20NEXUS%20AI%20SECURITY%20CTF-%2321%20WORLDWIDE-c084fc?style=for-the-badge&labelColor=09090b"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/⚔️%20CTF-SECURITY%20RESEARCH-7c3aed?style=for-the-badge&labelColor=09090b"/>
+<img src="https://img.shields.io/badge/🧠%20AI-MACHINE%20LEARNING-8b5cf6?style=for-the-badge&labelColor=09090b"/>
+<img src="https://img.shields.io/badge/🔬%20RESEARCH-LLM%20SECURITY-a78bfa?style=for-the-badge&labelColor=09090b"/>
+
+</div>
+
+---
+
+# `09` // CONTRIBUTION SNAKE
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh5008/Ansh5008/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansh5008/Ansh5008/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ansh5008/Ansh5008/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh5008/Ansh5008/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansh5008/Ansh5008/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ansh5008/Ansh5008/output/github-snake-dark.svg">
 </picture>
 
 </div>
 
-> **To enable the snake animation**, add this GitHub Actions workflow to `.github/workflows/snake.yml`:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_token: ${{ secrets.GITHUB_TOKEN }}
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+---
+
+# `10` // CURRENT OBJECTIVES
+
+```yaml
+research:
+  - LLM Security
+  - Adversarial Machine Learning
+  - AI Red Teaming
+  - RAG Security
+
+security:
+  - Vulnerability Research
+  - Exploit Development
+  - CTF
+  - Network Security
+
+engineering:
+  - AI-powered Security Tools
+  - ML Pipelines
+  - Intelligent Detection Systems
+  - Full-stack AI Applications
+
+mission:
+  "Build intelligent systems.
+   Understand how they fail.
+   Make them harder to break."
+```
 
 ---
 
-## 💬 Quote
+# `11` // CONNECT
 
 <div align="center">
 
-> *"The quieter you become, the more you are able to hear."*
-> 
+### Interested in AI Security, Cybersecurity, CTFs or ML?
+
+**Let's build something interesting.**
+
+<br>
+
+<a href="https://linkedin.com/in/ansh-kumar008">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-c084fc?style=for-the-badge&labelColor=09090b&logo=linkedin&logoColor=c084fc"/>
+</a>
+
+<a href="https://github.com/Ansh5008">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-8b5cf6?style=for-the-badge&labelColor=09090b&logo=github&logoColor=8b5cf6"/>
+</a>
+
+<a href="https://x.com/anshkumar5008">
+<img src="https://img.shields.io/badge/X-FOLLOW-a78bfa?style=for-the-badge&labelColor=09090b&logo=x&logoColor=a78bfa"/>
+</a>
 
 </div>
 
@@ -211,6 +347,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1f,50:1a0533,100:0a0a0f&height=120&section=footer&animation=fadeIn"/>
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║     "The quieter you become, the more you are able      ║
+║                    to hear."                             ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050509,45:12051f,75:24104a,100:050509&height=130&section=footer&animation=fadeIn"/>
 
 </div>
