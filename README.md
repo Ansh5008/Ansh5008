@@ -149,31 +149,6 @@
 
 </div>
 
-> **To enable the snake animation**, add this to `.github/workflows/snake.yml`:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_token: ${{ secrets.GITHUB_TOKEN }}
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=3"/>
 
 <div align="center">
