@@ -162,7 +162,8 @@
 >     steps:
 >       - uses: Platane/snk@v3
 >         with:
->           github_user_token: ${{ secrets.GITHUB_TOKEN }}
+>           github_user_name: ${{ github.repository_owner }}
+>           github_token: ${{ secrets.GITHUB_TOKEN }}
 >           outputs: |
 >             dist/github-snake.svg
 >             dist/github-snake-dark.svg?palette=github-dark
